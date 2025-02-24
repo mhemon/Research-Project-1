@@ -1,0 +1,214 @@
+label_map = {0: "elaboration", 1: "background", 2: "contrast", 3: "narration", 4: "concession", 5: "restatement", 6: "cause-effect", 7: "joint"}
+
+
+England pace bowler Jofra Archer could play in this year's T20 World Cup but will not play test cricket until 2025, according to England managing director Rob Key.The 29-year-old has not played for England in any format since March 2023 because of an elbow injury. Archer's England career has been plagued by injuries and he has not played a test match since the tour of India in 2021. Jofra's been out at Sussex's pre-season in India and bowled quickly out there. He bowled really well. He's now just gone back to the Caribbean, where he will play a little bit of club cricket, stuff like that. It's all about getting himself ready for that T20 World Cup. He'll hopefully play the Pakistan T20 series (in May), but it's all fingers crossed with Jofra at the moment.
+
+EDU Breakdown:- 
+
+EDU1: England pace bowler Jofra Archer could play in this year's T20 World Cup but
+EDU2: will not play test cricket until 2025,
+EDU3: according to England managing director Rob Key.
+EDU4: The 29-year-old has not played for England in any format since March 2023 because of an elbow injury.
+EDU5: Archer's England career has been plagued by injuries,
+EDU6: and he has not played a test match since the tour of India in 2021.
+EDU7: Jofra's been out at Sussex's pre-season in India and bowled quickly out there.
+EDU8: He bowled really well.
+EDU9: He's now just gone back to the Caribbean, where he will play a little bit of club cricket, stuff like that.
+EDU10: It's all about getting himself ready for that T20 World Cup.
+EDU11: He'll hopefully play the Pakistan T20 series (in May),
+EDU12: but it's all fingers crossed with Jofra at the moment.
+
+Rhetorical Study:-
+
+Elaboration(Background(Contrast(EDU1, EDU2),EDU3),EDU4),Elaboration(EDU5,EDU6),Elaboration(EDU7,EDU8),Narration(EDU9,EDU10,EDU11),Contrast(EDU11,EDU12)
+
+Source:- https://www.thedailystar.net/sports/cricket/news/jofra-archer-targeting-t20-world-cup-3582941
+
+New Zealand is expecting big crowds when it hosts England in Tests in Christchurch, Wellington and Hamilton in November and December, New Zealand Cricket (NZC) said on Tuesday. NZC chief executive Scott Weenink said there were already indications that the three matches against Brendon McCullum's team would attract the same sort of bumper attendances witnessed for the two home Tests against Australia in February and March. The first Test at Christchurch's Hagley Oval will begin on Nov. 28 with the Basin Reserve in Wellington hosting the second from Dec. 6-10. The series wraps up at Hamilton's Seddon Park from Dec. 14-18. The three clashes will form part of the World Test Championship, which New Zealand won in its inaugural edition. New Zealand are currently third in the rankings with England ninth and last.
+
+
+EDU Breakdown:-
+
+EDU1: New Zealand is expecting big crowds
+EDU2: when it hosts England in Tests in Christchurch, Wellington, and Hamilton in November and December, New Zealand Cricket (NZC) said on Tuesday.
+EDU3: NZC chief executive Scott Weenink said there were already indications
+EDU4: that the three matches against Brendon McCullum's team would attract the same sort of bumper attendances witnessed for the two home Tests against Australia in February and March.
+EDU5: The first Test at Christchurch's Hagley Oval will begin on Nov. 28 with the Basin Reserve in Wellington hosting the second from Dec. 6-10.
+EDU6: The series wraps up at Hamilton's Seddon Park from Dec. 14-18. The three clashes will form part of the World Test Championship, which New Zealand won in its inaugural edition.
+EDU7: New Zealand are currently third in the rankings
+EDU8: with England ninth and last.
+
+Rhetorical Study:-
+
+Elaboration(EDU1, EDU2), Elaboration (EDU3, EDU4), Narration (EDU5, EDU6), Contrast (EDU7, EDU8)
+
+Source:- https://www.thedailystar.net/sports/cricket/news/nz-host-england-tests-christchurch-wellington-hamilton-3585451
+
+
+Australia's Glenn Maxwell will take an indefinite mental and physical break from the IPL after struggling for form with Royal Challengers Bengaluru. The big-hitting all-rounder has scored just 32 with the bat in six games and skipped the defeat on Monday in a record run-fest against Sunrisers Hyderabad. It was Bengaluru's sixth defeat in seven matches and Faf du Plessis's side are bottom of the 10-team table. Maxwell, who will be key for Australia at the T20 World Cup in June, was one of the first cricketers to recognise mental health issues and took a break from international cricket in 2019.
+
+EDU Breakdown:-
+
+EDU1: Australia's Glenn Maxwell will take an indefinite mental and physical break from the IPL
+EDU2: after struggling for form with Royal Challengers Bengaluru.
+EDU3: The big-hitting all-rounder has scored just 32 with the bat in six games
+EDU4: and skipped the defeat on Monday in a record run-fest against Sunrisers Hyderabad.
+EDU5: It was Bengaluru's sixth defeat in seven matches
+EDU6: and Faf du Plessis's side are bottom of the 10-team table.
+EDU7: Maxwell, who will be key for Australia at the T20 World Cup in June,
+EDU8: was one of the first cricketers to recognise mental health issues
+EDU9: and took a break from international cricket in 2019.
+
+Rhetorical Study:-
+
+Elaboration (EDU1, EDU2), Elaboration (EDU3, EDU4), Narration (EDU5, EDU6), Background (EDU7, EDU8, EDU9)
+
+Source:- https://www.thedailystar.net/sports/cricket/news/maxwell-takes-indefinite-mental-and-physical-break-ipl-3588096
+
+Rain delayed the toss in the T20 World Cup semi-final between defending champions England and India in Guyana on Thursday.A pre-match downpour had stopped by the time the toss should have taken place at 1400 GMT but the pitch and square remained fully covered.Wednesday's first semi-final in Trinidad, in which South Africa hammered Afghanistan by nine wickets, had a reserve day set aside in the event of rain.But the England v India game, taking place during a traditionally wet period of the year, has only 250 minutes of extra time set aside to ensure a result.India have yet lose a match at the 20-over tournament but the only Test side that England have defeated on their way to the last four are co-hosts the West Indies.
+
+EDU Breakdown:-
+
+EDU1: Rain delayed the toss in the T20 World Cup semi-final between defending champions England and India in Guyana on Thursday.
+EDU2: A pre-match downpour had stopped by the time the toss should have taken place at 1400 GMT
+EDU3: but the pitch and square remained fully covered.
+EDU4: Wednesday's first semi-final in Trinidad, in which South Africa hammered Afghanistan by nine wickets,
+EDU5: had a reserve day set aside in the event of rain.
+EDU6: But the England v India game, taking place during a traditionally wet period of the year,
+EDU7: has only 250 minutes of extra time set aside to ensure a result.
+EDU8: India have yet to lose a match at the 20-over tournament
+EDU9: but the only Test side that England have defeated on their way to the last four are co-hosts the West Indies.
+
+Rhetorical Study:-
+
+Contrast(Elaboration(EDU1, EDU2),EDU3), Elaboration (EDU4, EDU5), Contrast(EDU5, EDU6), Narration (EDU6, EDU7), Contrast(EDU8, EDU9)
+
+Source:- https://www.thedailystar.net/sports/sports-special/t20-world-cup-2024/news/what-happens-if-india-england-semifinal-washed-out-3643441
+
+By becoming the first South African men's captain to reach a World Cup final, Aiden Markram has proved that he and his men are cut from a different cloth. It's a personal and individual motivation that you get to a final, to earn the opportunity to hopefully lift the trophy. But we all understand (as a team) this game and how it works and how things can go for you, things can go against you, and you take that in your stride. With measure and poise at the post-match press conference after their victory against Afghanistan, and reflecting on just "another game of cricket", you'd never think Aiden Markram, moments after an ICC Men's T20 World Cup semi-final, had just become the first South Africa men's captain to take the Proteas to the promised land of a World Cup final.
+
+EDU Breakdown:-
+
+EDU1: By becoming the first South African men's captain to reach a World Cup final, Aiden Markram has proved
+EDU2: that he and his men are cut from a different cloth.
+EDU3: It's a personal and individual motivation that you get to a final, to earn the opportunity to hopefully lift the trophy. 
+EDU4: But we all understand (as a team) this game and how it works and how things can go for you, things can go against you, and you take that in your stride.
+EDU5: With measure and poise at the post-match press conference after their victory against Afghanistan,
+EDU6: and reflecting on just "another game of cricket",
+EDU7: you'd never think Aiden Markram, moments after an ICC Men's T20 World Cup semi-final,
+EDU8: had just become the first South Africa men's captain to take the Proteas to the promised land of a World Cup final.
+
+Rhetorical Study:-
+
+Concession (EDU1, EDU2), Narration (EDU3, EDU4), Elaboration(EDU5, EDU6), Restatement(EDU7, EDU8) 
+
+Source:- https://www.thedailystar.net/sports/sports-special/t20-world-cup-2024/news/captain-cool-markram-motivated-make-south-africa-legends-prouder-3643406
+
+Sri Lanka head coach Chris Silverwood has resigned from his position in order to spend more time with his family, the country's cricket board said on Thursday. The 49-year-old Englishman took charge of Sri Lanka in 2022 following his stint as England head coach and guided them to the Twenty20 Asia Cup title and the final of the 50-overs Asia Cup the following year. However, they had a disappointing run in the 50-overs World Cup in India last year, finishing ninth of 10 teams after seven defeats in nine matches. They also failed to progress to the Super Eight stage of the ongoing T20 World Cup. Being an international coach means long periods away from loved ones. After lengthy conversations with my family and with a heavy heart, I feel it is now time for me to return home and spend some quality time together, Silverwood said.
+
+EDU Breakdown:-
+
+EDU1: Sri Lanka head coach Chris Silverwood has resigned from his position
+EDU2: in order to spend more time with his family,
+EDU3: the country's cricket board said on Thursday.
+EDU4: The 49-year-old Englishman took charge of Sri Lanka in 2022 following his stint as England head coach
+EDU5: and guided them to the Twenty20 Asia Cup title and the final of the 50-overs Asia Cup the following year.
+EDU6: However, they had a disappointing run in the 50-overs World Cup in India last year,
+EDU7: finishing ninth of 10 teams after seven defeats in nine matches.
+EDU8: They also failed to progress to the Super Eight stage of the ongoing T20 World Cup.
+EDU9:  Being an international coach means long periods away from loved ones.
+EDU10: After lengthy conversations with my family and with a heavy heart,
+EDU11: I feel it is now time for me to return home and spend some quality time together, Silverwood said.
+
+Rhetorical Study:-
+
+Background(Cause-Effect (EDU1, EDU2), EDU3), Contrast(Elaboration(EDU4, EDU5),EDU6), Elaboration(EDU6, EDU7, EDU8), Elaboration (EDU9, EDU11), Cause-Effect (EDU10, EDU11)
+
+Source:- https://www.thedailystar.net/sports/cricket/news/sri-lanka-head-coach-silverwood-resigns-personal-reasons-3643081
+
+Bangladesh Cricket Board's (BCB) High Performance (HP) unit will embark on their tour of Australia in July to play two four-day games followed by one-day and T20 series.HP will begin their tour with two four-day games against Pakistan Shaheens, the first slated for July 19 and the second on July 26 in Darwin. The team are set to depart for Australia on July 13. Following the red-ball format, Bangladesh A will play a fifty-over tri-series with Pakistan Shaheens and Northern Territory of Australia.The tour will conclude for Bangladesh A with the nine-team Top End T20 series. The tournament will feature Pakistan's Shaheen along with some leading Big Bash outfits such as Perth Scorchers, Melbourne Renegades, Melbourne Stars, Tasmania, Adelaide Strikers, and ACT Comets.
+
+EDU Breakdown:-
+
+EDU1: Bangladesh Cricket Board's (BCB) High Performance (HP) unit will embark on their tour of Australia in July
+EDU2: to play two four-day games followed by one-day and T20 series.
+EDU3: HP will begin their tour with two four-day games against Pakistan Shaheens,
+EDU4: the first slated for July 19 and the second on July 26 in Darwin.
+EDU5: The team are set to depart for Australia on July 13.
+EDU6: Following the red-ball format, Bangladesh A will play a fifty-over tri-series with Pakistan Shaheens and Northern Territory of Australia.
+EDU7: The tour will conclude for Bangladesh A with the nine-team Top End T20 series.
+EDU8: The tournament will feature Pakistan's Shaheen along with some leading Big Bash outfits 
+EDU9: such as Perth Scorchers, Melbourne Renegades, Melbourne Stars, Tasmania, Adelaide Strikers, and ACT Comets.
+
+Rhetorical Study:-
+
+Elaboration(EDU1, EDU2), Elaboration (EDU3, EDU4), Elaboration (Narration (EDU5, EDU6), EDU7), Joint (EDU8, EDU9)  
+
+Source:- https://www.thedailystar.net/sports/cricket/news/hps-australia-tour-next-month-begins-four-dayers-3642366
+
+Australia captain Mitchell Marsh described Gulbadin Naib's alleged antics during the tense World Cup match against Bangladesh as one of the funniest things I've ever seen on a cricket field, adding that he was almost in tears of laughter over the incident. During the crucial final overs of Bangladesh's chase, with rain threatening to end the match prematurely and send Australia through, Naib dramatically collapsed on the field, clutching his leg. This occurred shortly after television cameras caught England coach Jonathan Trott, in charge of Bangladesh, urging his players to slow down the flow of the game due to the DLS target coming into play. I was almost in tears laughing and at the end of the day it had no bearing on the game. So we can laugh about it now – but gee it was funny. It was outstanding. Marsh said of the incident as he watched the match on TV with his teammates.
+
+EDU Breakdown:-
+
+EDU1: Australia captain Mitchell Marsh described Gulbadin Naib's alleged antics during the tense World Cup match against Bangladesh
+EDU2: as one of the funniest things I've ever seen on a cricket field,
+EDU3: adding that he was almost in tears of laughter over the incident.
+EDU4: During the crucial final overs of Bangladesh's chase,
+EDU5: with rain threatening to end the match prematurely and send Australia through,
+EDU6: Naib dramatically collapsed on the field, clutching his leg.
+EDU7: This occurred shortly after television cameras caught England coach Jonathan Trott,
+EDU8: in charge of Bangladesh, urging his players to slow down the flow of the game
+EDU9: due to the DLS target coming into play.
+EDU10: I was almost in tears laughing
+EDU11: and at the end of the day it had no bearing on the game.
+EDU12: So we can laugh about it now – but gee it was funny.
+EDU13: It was outstanding,
+EDU14: Marsh said of the incident as he watched the match on TV with his teammates.
+
+Rhetorical Study:-
+
+Joint(EDU1, Elaboration(EDU2, EDU3)), Elaboration(EDU4, EDU5), Narration (EDU6, EDU7), Cause-Effect (EDU8, EDU9), Restatement (EDU10, EDU11), Background(Elaboration (EDU12, EDU13), EDU14) 
+
+Source:- https://www.thedailystar.net/sports/sports-special/t20-world-cup-2024/news/mitchell-marsh-almost-tears-watching-afghanistan-vs-bangladesh-3642181
+
+With record attendance, website and app hits, ICC Men's T20 World Cup 2024 has witnessed an unprecedented increase in interest across platforms.The USA leg of the Men's T20 World Cup saw riveting cricketing action including the home team's stunning upset win in Dallas and an incredible India vs Pakistan nail-biter in New York. And the cricketing fever managed to reach the fans in the USA, who turned out in extraordinary numbers for the action-packed first round of the ICC Men's T20 World Cup. In the USA alone, 190,000 fans attended matches that captivated the country and set the stage for cricket's continued growth in North America.
+
+EDU Breakdown:-
+
+EDU1: With record attendance, website and app hits,
+EDU2: ICC Men's T20 World Cup 2024 has witnessed an unprecedented increase in interest across platforms.
+EDU3: The USA leg of the Men's T20 World Cup saw riveting cricketing action
+EDU4: including the home team's stunning upset win in Dallas
+EDU5: and an incredible India vs Pakistan nail-biter in New York.
+EDU6: And the cricketing fever managed to reach the fans in the USA,
+EDU7: who turned out in extraordinary numbers for the action-packed first round of the ICC Men's T20 World Cup.
+EDU8: In the USA alone, 190,000 fans attended matches
+EDU9: that captivated the country and set the stage for cricket's continued growth in North America.
+
+Rhetorical Study:-
+
+Elaboration (EDU1, EDU2), Elaboration (EDU3, EDU4, EDU5), Cause-Effect (EDU6, EDU7), Elaboration (EDU8, EDU9)
+
+Source:- https://www.thedailystar.net/sports/sports-special/t20-world-cup-2024/news/cricket-hits-six-the-usa-3640511
+
+Bangladesh lacked vitality in the Powerplay against Australia yesterday when the chance came to bat first at the Sir Vivian Richards Stadium, one of the best batting tracks on offer in the ongoing edition.The top-order's rudderless performances throughout the group-stage was enough evidence for the team management to work out a different approach but they opted for one that did not work.In what appeared to be at least a 160-170 wicket, Bangladesh looked past putting early pressure on Australia's bowling attack.Bangladesh had in fact wanted to keep wickets in hand for the last six overs of the innings but they couldn't manage to get the momentum they wanted as wickets fell frequently.
+
+EDU Breakdown:-
+
+EDU1: Bangladesh lacked vitality in the Powerplay against Australia yesterday
+EDU2: when the chance came to bat first at the Sir Vivian Richards Stadium,
+EDU3: one of the best batting tracks on offer in the ongoing edition.
+EDU4: The top-order's rudderless performances throughout the group stage was enough evidence
+EDU5: for the team management to work out a different approach
+EDU6: but they opted for one that did not work.
+EDU7: In what appeared to be at least a 160-170 wicket,
+EDU8: Bangladesh looked past putting early pressure on Australia's bowling attack.
+EDU9: Bangladesh had in fact wanted to keep wickets in hand for the last six overs of the innings
+EDU10: but they couldn't manage to get the momentum they wanted
+EDU11: as wickets fell frequently.
+
+Rhetorical Study:-
+
+Elaboration (EDU1, EDU2, EDU3), Cause-Effect (EDU4, EDU5), Contrast (EDU5, EDU6), Elaboration (EDU7, EDU8), Contrast (EDU9, EDU10), Cause-Effect (EDU10, EDU11)
+
+Source:- https://www.thedailystar.net/sports/sports-special/t20-world-cup-2024/news/reserved-approach-misfires-against-aussies-3638451

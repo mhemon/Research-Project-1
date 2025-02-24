@@ -1,0 +1,33 @@
+England pace bowler Jofra Archer could play in this year's T20 World Cup but will not play test cricket until 2025, according to England managing director Rob Key. The 29-year-old has not played for England in any format since March 2023 because of an elbow injury. Archer's England career has been plagued by injuries and he has not played a test match since the tour of India in 2021. Jofra's been out at Sussex's pre-season in India and bowled quickly out there. He bowled really well. He's now just gone back to the Caribbean, where he will play a little bit of club cricket, stuff like that. It's all about getting himself ready for that T20 World Cup. He'll hopefully play the Pakistan T20 series (in May), but it's all fingers crossed with Jofra at the moment.
+
+EDU Breakdown:- 
+
+EDU1: England pace bowler Jofra Archer could play in this year's T20 World Cup but
+EDU2: will not play test cricket until 2025,
+EDU3: according to England managing director Rob Key.
+EDU4: The 29-year-old has not played for England in any format since March 2023 because of an elbow injury.
+EDU5: Archer's England career has been plagued by injuries,
+EDU6: and he has not played a test match since the tour of India in 2021.
+EDU7: Jofra's been out at Sussex's pre-season in India and bowled quickly out there.
+EDU8: He bowled really well.
+EDU9: He's now just gone back to the Caribbean, where he will play a little bit of club cricket, stuff like that.
+EDU10: It's all about getting himself ready for that T20 World Cup.
+EDU11: He'll hopefully play the Pakistan T20 series (in May),
+EDU12: but it's all fingers crossed with Jofra at the moment.
+
+Rhetorical Study:-
+
+Elaboration(Background(Contrast(EDU1, EDU2),EDU3),EDU4),Elaboration(EDU5,EDU6),Elaboration(EDU7,EDU8),Narration(EDU9,EDU10,EDU11),Contrast(EDU11,EDU12)
+
+
+Binarization:-
+
+Elaboration(Background(Contrast(EDU1, EDU2), EDU3), EDU4)
+Elaboration(EDU5, EDU6)
+Elaboration(EDU7, EDU8)
+Narration(EDU9, EDU10)
+Contrast(EDU11, EDU12)
+
+Linearization:- 
+
+Elaboration(Background(Contrast(EDU1, EDU2), EDU3), EDU4), Elaboration(EDU5, EDU6), Elaboration(EDU7, EDU8), Narration(EDU9, EDU10), Contrast(EDU11, EDU12)
