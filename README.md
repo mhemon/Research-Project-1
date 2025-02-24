@@ -7,7 +7,9 @@
 
 **Result/**: Analysis results from different models and visualizations.
 
-**data/**: Contains datasets used for the research.
+**Data/**: Contains datasets used for the research.
+
+**Code/**: Contains the main code file.
 
 **INCEpTION/**: Contains annonation project.
 
